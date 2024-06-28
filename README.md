@@ -1,4 +1,4 @@
-# Semi-supervised-Strategy-for-servival-prediction-in-Lung-cancer-
+# Semi-supervised-strategy-for-servival-prediction-in-lung-cancer-
 
 Enhanced Lung Cancer Survival Prediction using Semi-Supervised Pseudo-Labeling and Learning from Diverse PET/CT Datasets
 
