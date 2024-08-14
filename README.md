@@ -14,4 +14,4 @@ AUTHOR(S):
 Mohammad R. Salmanpour, Amin Mousavi
 STATEMENT: This files are part of above papers. Package by Mohammad R.Salmanpour, Amin Mousavi. --> Copyright (C) 2024 Mohammad R. Salmanpour, University of British coulumbia. This package is distributed in the hope that it will be useful. It is flexible license for research products. For commercial use, please get permison from Dr. Mohammad R. Salmanpour via eamil address m.salmanpoor66@gmail.com.
 
-Any feedback welcome!!! m.salmanpoor66@gmail.com, m.salmanpour.ubc.ca.
+Any feedback welcome!!! m.salmanpoor66@gmail.com, m.salmanpour@ubc.ca.
