@@ -11,7 +11,7 @@ The code includes 4 known survival prediction algorithms such as Fast Survival S
 
 AUTHOR(S):
 
-Mohammad R. Salmanpour, Amin Mousavi
+Mohammad R. Salmanpour
 
 STATEMENT: This files are part of above papers. Package by Mohammad R.Salmanpour, Amin Mousavi. --> Copyright (C) 2024 Mohammad R. Salmanpour, University of British coulumbia. This package is distributed in the hope that it will be useful. It is flexible license for research products. For commercial use, please get permison from Dr. Mohammad R. Salmanpour via eamil address m.salmanpoor66@gmail.com.
 
